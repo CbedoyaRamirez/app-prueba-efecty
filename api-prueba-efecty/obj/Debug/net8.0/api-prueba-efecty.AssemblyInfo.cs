@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-prueba-efecty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a39708f3c59e6d8a14d6ec62645ea752359ad6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-prueba-efecty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-prueba-efecty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

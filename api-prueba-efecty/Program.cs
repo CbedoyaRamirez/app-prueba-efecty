@@ -15,10 +15,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy(name: politicaCors,
+    options.AddDefaultPolicy(
         policy =>
         {
-            policy.WithOrigins("*").AllowAnyHeader().AllowAnyMethod();
+            policy.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod();
             
         });
 });
